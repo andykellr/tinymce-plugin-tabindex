@@ -29,3 +29,7 @@ number is a value for the tabindex (e.g. 4) or -1 for no tabindex
 'element' is the default value.
 
 See the [TinyMCE Documentation](http://www.tinymce.com/wiki.php/Configuration:plugins) for more info about plugins.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/andykellr/tinymce-plugin-tabindex/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
