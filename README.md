@@ -19,6 +19,13 @@ The tabindex plugin uses a single configration setting called "tabindex" that sh
 tabindex: number or 'element'
 ```
 
-where number is a value for the tabindex (e.g. 4) and the string value 'element' indicates that the tabindex value should come from the tabindex= attribute of the element replaced by TinyMCE. 'element' is the default value.
+where
+
+```
+number is a value for the tabindex (e.g. 4) or -1 for no tabindex
+'element' copies the tabindex= attribute of the element replaced by TinyMCE
+```
+
+'element' is the default value.
 
 See the [TinyMCE Documentation](http://www.tinymce.com/wiki.php/Configuration:plugins) for more info about plugins.
